@@ -1,4 +1,30 @@
+vendor/
+vendor/*
+storage/logs/laravel.log
+storage
+admin/contact/index.php
+storage/logs/laravel.log
+node_modules/
+npm-debug.log
+webhook.php
 .env
-admin/contact/index.php
-.gitignore
-admin/contact/index.php
+.htaccess
+composer.lock
+
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+# Laravel 5 & Lumen specific
+public/adminUploads
+public/storage
+public/hot
+public/uploads
+storage/*.key
+
+Homestead.yaml
+Homestead.json
+
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+.rocketeer/
+
