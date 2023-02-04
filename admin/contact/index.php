@@ -18,8 +18,7 @@
 			            	<thead>
 			            		<tr>
 								
-								jlkjklj
-			            			<th>Id</th>
+								<th>Id</th>
 			            			<th>Date</th>
 			            			<th>Name</th>
 			            			<th>Email</th>
