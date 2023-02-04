@@ -14,7 +14,7 @@ include("../../config.php");
 </script>";
   }
 
-
+==================+++++++++++++++++++++=================
  else
  {
  	echo "<script language='javascript'>
